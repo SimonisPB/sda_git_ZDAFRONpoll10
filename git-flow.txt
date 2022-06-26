@@ -1,0 +1,11 @@
+1. git checkout -b "new-branch-name"
+Changes  (pliki,edycja itd itp)
+add/edit/remove
+git add . (wszystkie pliki)
+git commit -m "message"
+git push (set upstream)
+repeat steps 2-5 ( within upstream, jak chcemy więcej komitów to powtarzamy te kroki od 2 do 5)
+NEW PR (pull request GIT HUB)
+Megrge
+switch to main branch git checkout "master"
+git pull  (aktualizacja maina oraz mastera)
